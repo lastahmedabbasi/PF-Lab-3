@@ -15,7 +15,7 @@ int main() {
     scanf("\n%c", &grade);
 
     printf("\nAge: %d\n", age);
-    printf("Height: %f\n", height);
+    printf("Height: %.2f\n", height);
     printf("Grade: %c", grade);
 
     return 0;
